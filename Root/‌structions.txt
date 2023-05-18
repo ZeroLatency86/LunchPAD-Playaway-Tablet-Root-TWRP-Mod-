@@ -1,0 +1,12 @@
+Root method for recovery
+Good afternoon!
+To apply the patch-and for rooting you device, it is necessary to get into Recovery.
+So try to load into recovery by this way: "Settings-> Recovery and reset-> Recovery Mode".
+After rebooting, you see some menu where you should select drive(sd card) on which the pre-recorded file "Update.zip"
+After finishing, restart your device use first point of menu.
+Now you have a root, it is necessary to update the SuperSu by selecting "OK".
+P.S.
+I didn't test it but find it on some good forums. Send privet massage to me if you have some questions.
+
+
+Root_patch
