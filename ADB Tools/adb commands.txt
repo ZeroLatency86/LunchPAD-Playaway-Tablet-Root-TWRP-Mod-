@@ -1,0 +1,8 @@
+adb reboot recovery  ---  to enter recovery mode
+
+adb devices          --- list adb devices
+
+
+
+
+
